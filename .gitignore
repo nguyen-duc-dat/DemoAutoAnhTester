@@ -23,6 +23,7 @@
 hs_err_pid*
 replay_pid*
 
+# loại bỏ các file folder sau lên gitserver
 *iml
 out/
 .idea/
